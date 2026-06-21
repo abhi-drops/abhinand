@@ -5,7 +5,7 @@ import reactIcon from '../assets/images/React.png';
 import nodeicon from '../assets/images/Node.js.png';
 import mongoicon from '../assets/images/MongoDB.png';
 import AzureSQlicon from '../assets/images/SQL.png';
-import v1 from '../assets/videos/v8.mp4';
+import v1 from '../assets/videos/V8.mp4';
 
 gsap.registerPlugin(SplitText);
 
